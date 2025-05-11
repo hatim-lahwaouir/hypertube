@@ -1,0 +1,1 @@
+https://dev.to/sanjaysinghrajpoot/adding-json-validation-to-structs-in-go-lang-4mg8 -> go json validation
