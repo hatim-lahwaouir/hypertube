@@ -38,6 +38,6 @@
 **Response:**
 ```json
         {
-            "access_token": token
+            "access_token": "token"
         }
 ```
