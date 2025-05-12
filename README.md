@@ -31,8 +31,8 @@
 **Request Body:**
 ```json
         {
-            usernameOrEmail : "xxx",          
-            password : "xxx"
+            "usernameOrEmail" : "xxx",          
+            "password" : "xxx"
         }
 ```
 **Response:**
