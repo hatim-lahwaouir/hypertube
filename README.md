@@ -30,10 +30,8 @@
 
 **Request Body:**
 ```json
-/api/auth/sign-in POST REQUEST
-    -> body {
         {
-            usernameOrEmail : "xxx"             
+            usernameOrEmail : "xxx",          
             password : "xxx"
         }
 ```
