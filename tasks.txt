@@ -1,0 +1,2 @@
+[] username and username must not contains special characters
+[] validating strong password using go-playground 
